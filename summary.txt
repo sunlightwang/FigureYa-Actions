@@ -150,7 +150,7 @@ RMD Render Summary
 [SKIPPED] - ./FigureYa132alteration/FigureYa132alteration.Rmd (Not listed in auto_Knit_online.txt)
 [SKIPPED] - ./FigureYa120MulticlassedgeR/FigureYa120MulticlassedgeR.Rmd (Not listed in auto_Knit_online.txt)
 [SKIPPED] - ./FigureYa306slingshot/FigureYa306slingshot.Rmd (Not listed in auto_Knit_online.txt)
-[SUCCESS] - ./FigureYa112Plus_venn/FigureYa112Plus_venn.Rmd
+[SKIPPED] - ./FigureYa112Plus_venn/FigureYa112Plus_venn.Rmd (Not listed in auto_Knit_online.txt)
 [SKIPPED] - ./FigureYa192breakpoint/FigureYa192breakpoint.Rmd (Not listed in auto_Knit_online.txt)
 [SKIPPED] - ./FigureYa261circGene/FigureYa261circGene.Rmd (Not listed in auto_Knit_online.txt)
 [SKIPPED] - ./FigureYa244PCAPlot/FigureYa244PCAPlot.Rmd (Not listed in auto_Knit_online.txt)
@@ -175,7 +175,7 @@ RMD Render Summary
 [SKIPPED] - ./FigureYa43ManhattanV2/FigureYa43ManhattanV2.Rmd (Not listed in auto_Knit_online.txt)
 [SKIPPED] - ./FigureYa284pairwiseLogrank/FigureYa284pairwiseLogrank.Rmd (Not listed in auto_Knit_online.txt)
 [SKIPPED] - ./FigureYa10chromosomeV2_update/FigureYa10chromosomeV2_update.Rmd (Not listed in auto_Knit_online.txt)
-[SKIPPED] - ./FigureYa112venn/FigureYa112venn.Rmd (Not listed in auto_Knit_online.txt)
+[SUCCESS] - ./FigureYa112venn/FigureYa112venn.Rmd
 [SKIPPED] - ./FigureYa201ClusterCorrelation/FigureYa201ClusterCorrelation.Rmd (Not listed in auto_Knit_online.txt)
 [SKIPPED] - ./FigureYa119Multiclasslimma/FigureYa119Multiclasslimma.Rmd (Not listed in auto_Knit_online.txt)
 [SKIPPED] - ./FigureYa65SVM/FigureYa65SVM.Rmd (Not listed in auto_Knit_online.txt)

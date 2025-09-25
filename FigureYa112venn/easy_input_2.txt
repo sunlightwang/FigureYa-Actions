@@ -6,3 +6,10 @@ gene4969
 gene955
 gene976
 gene991
+gene2
+gene312
+gene314
+gene954
+gene955
+gene956
+gene957
